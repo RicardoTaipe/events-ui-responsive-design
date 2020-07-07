@@ -1,4 +1,4 @@
-I have create a responsive design using:
+I have created a responsive design using:
 - Flexbox
 - Media queries
 - Pure css
