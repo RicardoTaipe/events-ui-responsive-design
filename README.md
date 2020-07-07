@@ -1,4 +1,4 @@
-# events-ui-responsive-design
+I have create a responsive design using:
 - Flexbox
 - Media queries
 - Pure css
